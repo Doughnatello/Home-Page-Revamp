@@ -15,8 +15,8 @@ export default function About() {
 
           <h2 className="text-4xl font-serif font-bold mb-3">MARCI METZGER</h2>
           <p className="text-xl text-amber-500 mb-6 tracking-wide">PAHRUMP REALTOR SPECIALIST</p>
-          <p className="text-x3 text-amber-500 mb-6 tracking-wide">REALTOR FOR NEARLY 3 DECADES!</p>
-           <p className="text-x3 text-amber-500 mb-6 tracking-wide">REALTOR FOR NEARLY 3 DECADES!</p>
+          <p className="text-x4 text-amber-500 mb-6 tracking-wide">REALTOR FOR NEARLY 3 DECADES!</p>
+           <p className="text-x4 text-amber-500 mb-6 tracking-wide">REALTOR FOR NEARLY 3 DECADES!</p>
 
           <button className="bg-amber-500 hover:bg-amber-600 text-white px-8 py-3 rounded-full font-semibold transition-colors inline-flex items-center space-x-2">
             <Mail className="h-5 w-5" />
