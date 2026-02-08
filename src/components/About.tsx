@@ -9,8 +9,6 @@ export default function About() {
             <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-amber-500 shadow-2xl">
               <img
                 src="images/1.webp"
-                alt="Marci Metzger"
-                className="w-full h-full object-cover"
               />
             </div>
           </div>
